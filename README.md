@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @bjforestal
+- 👋 Hi, I’m Braxton!
 - 👀 I’m interested in ALL gaming mediums (board, card, video, social, etc.)
 - 🌱 I’m currently learning Unreal Engine, Python, and C++
 - 📫 Feel free to message me here on GitHub! :)
